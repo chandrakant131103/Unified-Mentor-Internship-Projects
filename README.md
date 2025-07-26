@@ -1,3 +1,12 @@
+COMPANY: Unified Mentor Pvt. Ltd
+NAME: Chandrakant Barik
+
+UNID INTERN ID:  UMID01062540399
+
+DOMAIN: Frontend Development Intern
+
+DURATION: 05/06/2025 to 05/08/2025
+
 This contains Github Links of ALL 6 projects assigned to Chandrakant Barik During Internship Period of Unified Mentor Frontend Development During the duration of 4 june to 4 august.
 This also comprises of projects also presented in respective repo ,otherwise ,i have uploade all the folder of files .In this also.
 
